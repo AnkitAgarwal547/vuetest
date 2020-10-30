@@ -1,0 +1,173 @@
+[{
+  "_id": {
+    "$oid": "5f8d98ed8aea6d9748099218"
+  },
+  "itemid": "2",
+  "name": "Phone",
+  "price": 14,
+  "quantity": 30,
+  "images": [
+    "img4"
+  ],
+  "imageFiles": [
+    "img/4.1bdc0dce.jpg"
+  ],
+  "rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8d99278aea6d974809921a"
+  },
+  "itemid": "3",
+  "name": "Mouse15",
+  "price": 2,
+  "quantity": 15,
+  "images": [
+    "img5"
+  ],
+  "imageFiles": [
+    "../../assets/products/5.jpg"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8d99408aea6d974809921b"
+  },
+  "itemid": "14",
+  "name": "Laptop14",
+  "price": 45,
+  "quantity": 14,
+  "images": [
+    "img6"
+  ],
+  "imageFiles": [
+    "../../assets/products/6.jpg"
+  ],
+  "rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8da71aeb90d8c7b8d29c89"
+  },
+  "itemid": "20",
+  "name": "Notebook20",
+  "price": 50,
+  "quantity": 19,
+  "images": [
+    "img7"
+  ],
+  "imageFiles": [
+    "../../assets/products/7.jpg"
+  ],
+  "rating": 2.5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8dc38ba125302ddc065cc9"
+  },
+  "itemid": "21",
+  "name": "Air Conditioner",
+  "price": 40,
+  "quantity": 14,
+  "images": [
+    "img8"
+  ],
+  "imageFiles": [
+    "../../assets/products/8.jpg"
+  ],
+  "rating": 3.5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f982b36d3c83830541f6e0c"
+  },
+  "itemid": "5",
+  "name": "Mouse5",
+  "price": 10,
+  "quantity": 15,
+  "images": [
+    "img9"
+  ],
+  "imageFiles": [
+    "../../assets/products/9.jpg"
+  ],
+  "rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f982b62d3c83830541f6e0d"
+  },
+  "itemid": "4",
+  "name": "Keyboard4",
+  "price": 5,
+  "quantity": 20,
+  "images": [
+    "img10"
+  ],
+  "imageFiles": [
+    "../../assets/products/10.jpg"
+  ],
+  "rating": 3.5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f994736b327bc931480fb79"
+  },
+  "itemid": "6",
+  "name": "Laptop6",
+  "price": 50,
+  "quantity": 15,
+  "images": [
+    "img11"
+  ],
+  "imageFiles": [
+    "../../assets/products/11.jpg"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f996e9eb327bc931480fb7c"
+  },
+  "itemid": "23",
+  "name": "Speaker23",
+  "price": 25,
+  "quantity": 10,
+  "images": [
+    "img12"
+  ],
+  "imageFiles": [
+    "../../assets/products/12.jpg"
+  ],
+  "rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f99a65a0a62d86c6478be45"
+  },
+  "itemid": "1",
+  "name": "Speaker18",
+  "price": 3,
+  "quantity": 30,
+  "images": [
+    "img13"
+  ],
+  "imageFiles": [
+    "../../assets/products/13.jpg"
+  ],
+  "rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c010597207840081ec153"
+  },
+  "images": [],
+  "imageFiles": [],
+  "itemid": "25",
+  "name": "Phone25",
+  "price": 34,
+  "quantity": 12,
+  "rating": 4,
+  "__v": 0
+}]
