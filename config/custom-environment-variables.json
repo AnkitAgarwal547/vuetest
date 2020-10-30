@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "upstar_jwtPrivateKey",
+    "db": "BoxDB"
+}

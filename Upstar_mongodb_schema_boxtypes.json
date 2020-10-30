@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "5f9801fdd3c83830541f6e05"
+  },
+  "type": "single",
+  "name": "Gadgets",
+  "freeshippinglimit": 150,
+  "totalprice": 107,
+  "predefineditems": [
+    {
+      "itemid": "2",
+      "quantity": 4,
+      "name": "Phone",
+      "price": 14
+    },
+    {
+      "itemid": "3",
+      "quantity": 3,
+      "name": "Mouse15",
+      "price": 2
+    },
+    {
+      "itemid": "14",
+      "quantity": 1,
+      "name": "Laptop14",
+      "price": 45
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f980246d3c83830541f6e06"
+  },
+  "type": "medium",
+  "name": "Devices",
+  "freeshippinglimit": 180,
+  "totalprice": 153,
+  "predefineditems": [
+    {
+      "itemid": "3",
+      "quantity": 4,
+      "name": "Mouse15",
+      "price": 2
+    },
+    {
+      "itemid": "5",
+      "quantity": 10,
+      "name": "Mouse5",
+      "price": 10
+    },
+    {
+      "itemid": "14",
+      "name": "Laptop14",
+      "price": 45,
+      "quantity": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f980282d3c83830541f6e07"
+  },
+  "type": "company",
+  "name": "Gadgets",
+  "freeshippinglimit": 180,
+  "totalprice": 0,
+  "predefineditems": [
+    {
+      "itemid": "4",
+      "quantity": 12,
+      "name": "Keyboard4",
+      "price": 5
+    },
+    {
+      "itemid": "5",
+      "quantity": 15,
+      "name": "Mouse5",
+      "price": 10
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f9a858bfd6bf95f88a067df"
+  },
+  "predefineditems": [],
+  "totalprice": 0,
+  "type": "Large",
+  "freeshippinglimit": 170,
+  "name": "Devices"
+}]

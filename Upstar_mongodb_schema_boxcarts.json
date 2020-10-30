@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "5f981c955adb531d44377499"
+  },
+  "items": [
+    {
+      "itemid": "3",
+      "quantity": 4,
+      "name": "Mouse15",
+      "price": 2
+    },
+    {
+      "itemid": "21",
+      "name": "Air Conditioner",
+      "price": 40,
+      "quantity": 1
+    },
+    {
+      "itemid": "20",
+      "name": "Notebook20",
+      "price": 50,
+      "quantity": 1
+    },
+    {
+      "itemid": "5",
+      "name": "Mouse5",
+      "price": 10,
+      "quantity": 1
+    },
+    {
+      "itemid": "1",
+      "name": "Speaker18",
+      "price": 3,
+      "quantity": 1
+    }
+  ],
+  "userid": "Us202",
+  "type": "single",
+  "name": "Gadgets",
+  "freeshippinglimit": 150,
+  "totalprice": 111,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f99af410a62d86c6478be46"
+  },
+  "items": [
+    {
+      "itemid": "3",
+      "quantity": 4,
+      "name": "Mouse15",
+      "price": 2
+    },
+    {
+      "itemid": "5",
+      "quantity": 10,
+      "name": "Mouse5",
+      "price": 10
+    }
+  ],
+  "userid": "Us202",
+  "type": "medium",
+  "freeshippinglimit": 180,
+  "totalprice": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a8cbafd6bf95f88a067e0"
+  },
+  "items": [
+    {
+      "itemid": "4",
+      "quantity": 12,
+      "name": "Keyboard4",
+      "price": 5
+    },
+    {
+      "itemid": "5",
+      "quantity": 15,
+      "name": "Mouse5",
+      "price": 10
+    }
+  ],
+  "userid": "Us202",
+  "type": "company",
+  "freeshippinglimit": 180,
+  "totalprice": 0,
+  "name": "Gadgets",
+  "__v": 0
+}]
